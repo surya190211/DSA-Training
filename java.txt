@@ -1,0 +1,18 @@
+What is function?
+Why we use function?
+Components of function?
+Context of the function
+Scopes
+Parametered function :- functions which have one or more parameter
+Non parametered function:- no parameter passed
+Recursive Function:- A function calling itself.
+Why is return statement is used?
+pass by value :-
+pass by refrence
+Stack call vs heap memory
+LVT(local variable table)
+Objects are created in run time
+Function overloading
+Function overridding
+inheritance
+
